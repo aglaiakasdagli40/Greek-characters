@@ -1,0 +1,2 @@
+# Greek-characters
+I have created a library (https://incompatible2015.librarika.com), and everything was ok, but the last days I face a character encoding problem. All the Greek language characters are unrecognisable, no matter if I change the encoding of my browser, or if I try it on different browsers, or even if I try it on a different computer. The symptom exists in front end (where I can search the database) and the back end (where I import new books). Please inform me if it is an error in your server's error and how shall I proceed.
